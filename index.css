@@ -1,0 +1,28 @@
+body {
+    margin: 0%;
+}
+
+#top-bar {
+    display: flex;
+    background-color: grey;
+    width: auto;
+    height: auto;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1%;
+}
+
+#logo {
+    margin: 0%;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+#info {
+    display: inherit;
+    justify-content: space-around;
+}
+
+.section {
+    margin: 1em;
+}
