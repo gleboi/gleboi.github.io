@@ -42,13 +42,21 @@ body {
 #landingpage {
   margin: 0%;
   padding: 0%;
-  height: 80vh;
+  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
 }
-
+#AboutMe {
+  margin: 0%;
+  padding: 0%;
+  height: 100vh;
+  display:grid;
+}
+#AboutMe > h1 {
+  margin: 10px;
+}
 #Name{
   text-transform: uppercase;
 }
